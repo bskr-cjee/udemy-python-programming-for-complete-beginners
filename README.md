@@ -1,1 +1,1 @@
-# udemy_python-programming-for-complete-beginners
+# udemy-python-programming-for-complete-beginners
